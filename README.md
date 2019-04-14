@@ -12,4 +12,4 @@ Poem: Contains poem in the form of a string.
 
 Poem_url: contains url of the page from which poem was scraped.
 
-#### Packages Used: Sklearn, Numpy, Scrapy, Spacy.
+#### Technology/Tools Used: Sklearn, Numpy, Scrapy, Spacy.
